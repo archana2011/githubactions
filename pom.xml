@@ -71,8 +71,8 @@
   <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub pramodhmdt Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/PramodhMDT/sunshine-action</url>
+     <name>GitHub archana2011 Apache Maven Packages</name>
+     <url>https://github.com/archana2011/githubactions</url>
    </repository>
   </distributionManagement>
 
