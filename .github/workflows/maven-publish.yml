@@ -29,4 +29,4 @@ jobs:
     - name: Publish to GitHub Packages Apache Maven
       run: mvn deploy -Dregistry=https://maven.pkg.github.com/archana2011 -Dtoken=GH_TOKEN
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
